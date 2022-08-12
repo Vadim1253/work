@@ -1,0 +1,6 @@
+CREATE TABLE telefoni(
+id INT not null AUTO_INCREMENT PRIMARY KEY,
+tel VARCHAR(15),
+name VARCHAR(30),
+dataa DATE
+);
